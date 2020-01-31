@@ -1,4 +1,4 @@
-                                                  PiUno
+                                                    PiUno
 
 This project implements an Internet Radio utilizing the Raspberry Pi and Arduino
 Uno. The Pi runs the music player and outputs its sound to speakers. The Arduino
